@@ -3,7 +3,6 @@
 
 ...
 
-Experiencia:
+Endereço: XXXX  - Marília-SP
 
-
-Programador jr
+...
