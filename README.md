@@ -3,7 +3,5 @@
 
 ...
 
-Experiencia:
 
-
-Programador jr
+Marcelo Pegoraro
