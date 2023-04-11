@@ -20,6 +20,10 @@ CPF: XXX.XXX.XXX.XX
 
 Apelido: Calabreso
 
+e-mail: marcelopegoraro976@gmail.com
+
+UF: SP
+
 
 
 
