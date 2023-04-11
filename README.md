@@ -12,7 +12,7 @@ uf: sp
 
 ---
 
-Experiencia
+Experiência
 
 Programador jr
 
