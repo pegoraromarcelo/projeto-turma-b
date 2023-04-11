@@ -2,15 +2,19 @@
 
 23 anos
 
+cidade: Marilia
+
+endereço: Setembrino Cardoso Maciel
+
+bairro: Fragata
+
+uf: sp
+
 ---
 
 Experiencia
 
 Programador jr
-
----
-
-Endereço: XXXX  - Marília-SP
 
 ---
 
@@ -20,11 +24,10 @@ RG: XX.XXX.XXX-X
 
 CPF: XXX.XXX.XXX.XX
 
-Apelido: Calabreso
+Apelido: Pegoraro
 
 e-mail: marcelopegoraro976@gmail.com
 
-UF: SP
 
 
 
